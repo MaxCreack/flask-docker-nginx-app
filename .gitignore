@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+firstenv/
+*.env
+.env
+*.pem
+aws/
+__init__.pyc
+*.log
